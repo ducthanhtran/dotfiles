@@ -1,7 +1,7 @@
 alias ..='cd ..'
 alias ..2='cd ../..'
 
-alias l='ls -al'
+alias l='ls -al --color=auto'
 
 alias rm='rm -i'
 alias mv='mv -i'
